@@ -53,7 +53,7 @@ function checkInputs() {
   });
 
   if (formIsValid) {
-    console.log("O formulário está 100% válido!!!");
+    console.log("O formulário está 100% válido!");
   }
 }
 
